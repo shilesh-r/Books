@@ -37,7 +37,7 @@ Design:
 
 Execution instruction:
 
-Command line: mvn -f <pom file path>\pom.xml clean integration-test verify
+Command line: mvn -f "pom file path"\pom.xml clean integration-test verify
 
 --or--
 
